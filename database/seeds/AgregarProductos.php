@@ -516,7 +516,7 @@ class AgregarProductos extends Seeder
   [
     'p_Nombre'=> 'Chiclet Trident(Caja)',
     'p_Descripcion'=> 'CHICLET TRIDENT CITRUSMIX Caja x 18 unid.',
-    'p_UrlImagen'=>'./assets/img/categorias/golosinas/Trident/p1.jpg',
+    'p_UrlImagen'=>'./assets/img/categorias/golosinas/trident/p1.jpg',
     'p_Precio'=>15.60,
     'p_Stock'=>50,
     'p_unidades'=>'Caja',
@@ -688,7 +688,7 @@ class AgregarProductos extends Seeder
   [
     'p_Nombre'=> 'Leche Gloria Azul(Gr)',
     'p_Descripcion'=> 'LECHE GLORIA TARRO AZUL GRANDE  x 400 gr.',
-    'p_UrlImagen'=>'./assets/img/categorias/lacteos/gloriazul/p1.jpg',
+    'p_UrlImagen'=>'./assets/img/categorias/lacteos/gloriaazul/p1.jpg',
     'p_Precio'=>3.79,
     'p_Stock'=>50,
     'p_unidades'=>'Gr',
@@ -910,7 +910,7 @@ class AgregarProductos extends Seeder
   [
     'p_Nombre'=> 'Langostino Crudo Pelado(Gr)',
     'p_Descripcion'=> 'Langostino Crudo Pelado PESCANOVA Bolsa x 300 Gr',
-    'p_UrlImagen'=>'./assets/img/categorias/pescados//p1.jpg',
+    'p_UrlImagen'=>'./assets/img/categorias/pescados/langostino/p1.jpg',
     'p_Precio'=>22.90,
     'p_Stock'=>50,
     'p_unidades'=>'Gr',

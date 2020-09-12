@@ -18,5 +18,4 @@ class producto extends Model
         ->get();
     }
 
-
 }
